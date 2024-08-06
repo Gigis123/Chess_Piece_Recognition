@@ -1,5 +1,5 @@
 # Chess_Piece_Recognition
-This project focuses on developing a computer vision model to identify chess pieces in real time. By using neural networks, the model will recognize various chess pieces such as knight, king, pawn, rooks,bishops, and queens from images. The objective is to convert live chess games into a digital format that could be used for analysis and live streaming.
+This project focuses on developing a computer vision model to identify chess pieces in real time. By using neural networks, the model will recognize various chess pieces from images. The objective is to convert live chess games into a digital format that could be used for analysis and live streaming.
 
 # Project Objective
 create a computer vision in order to classify chess piece to help turn a real chess game into a virtual chess game. this model with use computer vision which is used to train computer to be able to recognize images based on certain characteristics. the model will utilize a sequential model and also vgg19 model for its improvement.
